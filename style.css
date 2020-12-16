@@ -83,6 +83,7 @@ button:active {
   font-size: 1.7rem;
 }
 
+
 /* Media Query: Tablet or Smaller */ 
 
 @media screen and (max-width: 1000px) {
